@@ -2,5 +2,6 @@
   <Import Project="..\Shared.props" />
   <PropertyGroup>
     <PlatformTarget>AnyCpu</PlatformTarget>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 </Project>

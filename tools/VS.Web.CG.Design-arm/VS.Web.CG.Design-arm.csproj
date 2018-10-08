@@ -2,5 +2,6 @@
   <Import Project="..\Shared.props" />
   <PropertyGroup>
     <RuntimeIdentifier>win-arm</RuntimeIdentifier>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 </Project>

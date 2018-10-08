@@ -6,6 +6,7 @@
     <AssemblyName>Microsoft.VisualStudio.Web.CodeGeneration.Msbuild</AssemblyName>
     <RootNamespace>Microsoft.VisualStudio.Web.CodeGeneration.Msbuild</RootNamespace>
     <IsPackable>false</IsPackable>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

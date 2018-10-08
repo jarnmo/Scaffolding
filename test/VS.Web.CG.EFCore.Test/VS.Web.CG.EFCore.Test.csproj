@@ -4,6 +4,7 @@
     <AssemblyName>Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.Test</AssemblyName>
     <RootNamespace>Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.Test</RootNamespace>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

@@ -12,6 +12,7 @@
     <PackAsTool>true</PackAsTool>
     <GenerateToolShims>true</GenerateToolShims>
     <PackageTags>dotnet;aspnet-codegenerator</PackageTags>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

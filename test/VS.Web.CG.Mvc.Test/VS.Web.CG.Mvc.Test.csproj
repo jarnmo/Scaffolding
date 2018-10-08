@@ -4,6 +4,7 @@
     <AssemblyName>Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Test</AssemblyName>
     <RootNamespace>Microsoft.VisualStudio.Web.CodeGenerators.Mvc</RootNamespace>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

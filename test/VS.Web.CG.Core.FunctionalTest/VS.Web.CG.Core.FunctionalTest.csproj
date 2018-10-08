@@ -4,6 +4,7 @@
     <AssemblyName>Microsoft.VisualStudio.Web.CodeGeneration.Core.FunctionalTest</AssemblyName>
     <RootNamespace>Microsoft.VisualStudio.Web.CodeGeneration.Core.FunctionalTest</RootNamespace>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

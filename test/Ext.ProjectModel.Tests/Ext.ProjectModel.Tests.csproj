@@ -4,6 +4,7 @@
     <AssemblyName>Microsoft.Extensions.ProjectModel.Tests</AssemblyName>
     <RootNamespace>Microsoft.Extensions.ProjectModel</RootNamespace>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
