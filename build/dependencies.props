@@ -7,20 +7,20 @@
   <PropertyGroup Label="Package Versions: Auto">
     <InternalAspNetCoreSdkPackageVersion>2.1.3-rtm-15802</InternalAspNetCoreSdkPackageVersion>
     <MicrosoftApplicationInsightsAspNetCorePackageVersion>2.1.1</MicrosoftApplicationInsightsAspNetCorePackageVersion>
-    <MicrosoftBuildPackageVersion>15.6.82</MicrosoftBuildPackageVersion>
-    <MicrosoftBuildRuntimePackageVersion>15.6.82</MicrosoftBuildRuntimePackageVersion>
-    <MicrosoftBuildUtilitiesCorePackageVersion>15.6.82</MicrosoftBuildUtilitiesCorePackageVersion>
-    <MicrosoftCodeAnalysisCSharpPackageVersion>2.8.0</MicrosoftCodeAnalysisCSharpPackageVersion>
-    <MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>2.8.0</MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>
+    <MicrosoftBuildPackageVersion>15.8.166</MicrosoftBuildPackageVersion>
+    <MicrosoftBuildRuntimePackageVersion>15.8.166</MicrosoftBuildRuntimePackageVersion>
+    <MicrosoftBuildUtilitiesCorePackageVersion>15.8.166</MicrosoftBuildUtilitiesCorePackageVersion>
+    <MicrosoftCodeAnalysisCSharpPackageVersion>2.9.0</MicrosoftCodeAnalysisCSharpPackageVersion>
+    <MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>2.9.0</MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>
     <MicrosoftDotNetProjectModelPackageVersion>1.0.0-rc3-003121</MicrosoftDotNetProjectModelPackageVersion>
     <MicrosoftNETCoreApp20PackageVersion>2.0.0</MicrosoftNETCoreApp20PackageVersion>
-    <MicrosoftNETCoreApp21PackageVersion>2.1.2</MicrosoftNETCoreApp21PackageVersion>
+    <MicrosoftNETCoreApp21PackageVersion>2.1.4</MicrosoftNETCoreApp21PackageVersion>
     <MicrosoftNETCoreDotNetAppHostPackageVersion>2.1.2</MicrosoftNETCoreDotNetAppHostPackageVersion>
     <MicrosoftNETTestSdkPackageVersion>15.6.1</MicrosoftNETTestSdkPackageVersion>
     <MoqPackageVersion>4.7.49</MoqPackageVersion>
     <NETStandardLibrary20PackageVersion>2.0.3</NETStandardLibrary20PackageVersion>
     <NewtonsoftJsonPackageVersion>11.0.2</NewtonsoftJsonPackageVersion>
-    <NuGetFrameworksPackageVersion>4.7.0</NuGetFrameworksPackageVersion>
+    <NuGetFrameworksPackageVersion>4.8.0</NuGetFrameworksPackageVersion>
     <VisualStudio_NewtonsoftJsonPackageVersion>9.0.1</VisualStudio_NewtonsoftJsonPackageVersion>
     <XunitPackageVersion>2.3.1</XunitPackageVersion>
     <XunitRunnerVisualStudioPackageVersion>2.4.0-beta.1.build3945</XunitRunnerVisualStudioPackageVersion>
@@ -37,16 +37,16 @@
     <MicrosoftAspNetCoreHostingPackageVersion>2.1.1</MicrosoftAspNetCoreHostingPackageVersion>
     <MicrosoftAspNetCoreIdentityEntityFrameworkCorePackageVersion>2.1.1</MicrosoftAspNetCoreIdentityEntityFrameworkCorePackageVersion>
     <MicrosoftAspNetCoreIdentityUIPackageVersion>2.1.1</MicrosoftAspNetCoreIdentityUIPackageVersion>
-    <MicrosoftAspNetCoreMvcPackageVersion>2.1.1</MicrosoftAspNetCoreMvcPackageVersion>
+    <MicrosoftAspNetCoreMvcPackageVersion>2.1.3</MicrosoftAspNetCoreMvcPackageVersion>
     <MicrosoftAspNetCorePackageVersion>2.1.1</MicrosoftAspNetCorePackageVersion>
-    <MicrosoftAspNetCoreRazorLanguagePackageVersion>2.1.1</MicrosoftAspNetCoreRazorLanguagePackageVersion>
-    <MicrosoftAspNetCoreServerIISIntegrationPackageVersion>2.1.1</MicrosoftAspNetCoreServerIISIntegrationPackageVersion>
-    <MicrosoftAspNetCoreServerKestrelPackageVersion>2.1.1</MicrosoftAspNetCoreServerKestrelPackageVersion>
+    <MicrosoftAspNetCoreRazorLanguagePackageVersion>2.1.2</MicrosoftAspNetCoreRazorLanguagePackageVersion>
+    <MicrosoftAspNetCoreServerIISIntegrationPackageVersion>2.1.2</MicrosoftAspNetCoreServerIISIntegrationPackageVersion>
+    <MicrosoftAspNetCoreServerKestrelPackageVersion>2.1.3</MicrosoftAspNetCoreServerKestrelPackageVersion>
     <MicrosoftAspNetCoreStaticFilesPackageVersion>2.1.1</MicrosoftAspNetCoreStaticFilesPackageVersion>
     <MicrosoftAspNetCoreTestingPackageVersion>2.1.0</MicrosoftAspNetCoreTestingPackageVersion>
-    <MicrosoftEntityFrameworkCoreDesignPackageVersion>2.1.1</MicrosoftEntityFrameworkCoreDesignPackageVersion>
-    <MicrosoftEntityFrameworkCorePackageVersion>2.1.1</MicrosoftEntityFrameworkCorePackageVersion>
-    <MicrosoftEntityFrameworkCoreSqlServerPackageVersion>2.1.1</MicrosoftEntityFrameworkCoreSqlServerPackageVersion>
+    <MicrosoftEntityFrameworkCoreDesignPackageVersion>2.1.4</MicrosoftEntityFrameworkCoreDesignPackageVersion>
+    <MicrosoftEntityFrameworkCorePackageVersion>2.1.4</MicrosoftEntityFrameworkCorePackageVersion>
+    <MicrosoftEntityFrameworkCoreSqlServerPackageVersion>2.1.4</MicrosoftEntityFrameworkCoreSqlServerPackageVersion>
     <MicrosoftExtensionsCommandLineUtilsSourcesPackageVersion>2.1.1</MicrosoftExtensionsCommandLineUtilsSourcesPackageVersion>
     <MicrosoftExtensionsConfigurationAbstractionsPackageVersion>2.1.1</MicrosoftExtensionsConfigurationAbstractionsPackageVersion>
     <MicrosoftExtensionsConfigurationEnvironmentVariablesPackageVersion>2.1.1</MicrosoftExtensionsConfigurationEnvironmentVariablesPackageVersion>

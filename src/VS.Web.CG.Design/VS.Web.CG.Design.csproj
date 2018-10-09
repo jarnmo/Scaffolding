@@ -5,7 +5,7 @@
       -->
   <Import Project="Shared.props" />
   <PropertyGroup>
-    <TargetFrameworks>net461;netcoreapp2.0</TargetFrameworks>
+    <TargetFrameworks>net461;netcoreapp2.1</TargetFrameworks>
     <PackageTags>aspnetcore;codegenerator;scaffolding;visualstudioweb</PackageTags>
     <PackageId>Microsoft.VisualStudio.Web.CodeGeneration.Design</PackageId>
     <RuntimeIdentifier Condition=" '$(TargetFramework)' != 'netcoreapp2.0' ">win7-x64</RuntimeIdentifier>
